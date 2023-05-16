@@ -1,0 +1,35 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colored (1.2)
+    diffy (3.4.2)
+    faraday (2.7.4)
+      faraday-net_http (>= 2.0, < 3.1)
+      ruby2_keywords (>= 0.0.4)
+    faraday-multipart (1.0.4)
+      multipart-post (~> 2)
+    faraday-net_http (3.0.2)
+    fileutils (1.7.1)
+    json (2.6.3)
+    multipart-post (2.3.0)
+    open3 (0.1.2)
+    ruby-openai (4.0.0)
+      faraday (>= 1)
+      faraday-multipart (>= 1)
+    ruby2_keywords (0.0.5)
+    thor (1.2.1)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  colored
+  diffy
+  fileutils
+  json
+  open3
+  ruby-openai
+  thor
+
+BUNDLED WITH
+   2.2.19

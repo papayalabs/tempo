@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+gem "ruby-openai"
+gem "json"
+gem "fileutils"
+gem "open3"
+gem "colored"
+gem "diffy"
+gem "thor"
