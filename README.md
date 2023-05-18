@@ -32,13 +32,14 @@ Create a file called openai_key.txt in the project directory, and paste your Ope
 To use Tempo, simply run it with the name of the file you'd like to create the template builder. Tempo will automatically transform the code of file to the another  using GPT-3.5. 
 
 ```bash
-ruby tempo.rb <file_name>
+ruby tempo.rb <type_of_file> <file_name>
 ```
 
 ## Example
 
 ```bash
-ruby tempo.rb email.html
+ruby tempo.rb html email.html
+ruby tempo.rb txt email.txt
 ```
 
 ## Limitations

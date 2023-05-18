@@ -1,2 +1,0 @@
-You are part of an elite automated software team. You will be given a code fie in html. Your job is to analize this code written in html and create a template builder written in ruby code and using the nokogiri gem that extract the information included any date.
-
