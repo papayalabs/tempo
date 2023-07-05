@@ -1,4 +1,4 @@
-# Trenscoda
+# Tempo
 Tempo is AI Program using ChatGPT written in Ruby  with the ability to automatically create a template builder code from specific html code that represent the content of an email
 
 ## Requirements
